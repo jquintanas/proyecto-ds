@@ -1,0 +1,14 @@
+node_modules
+npm-debug.log
+.github
+Communications
+database
+docs
+src
+Support_Documentation
+test
+jsdoc.json
+tsconfig.json
+Procfile
+.gitignore
+README.md

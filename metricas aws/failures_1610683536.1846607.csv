@@ -1,0 +1,3 @@
+Method,Name,Error,Occurrences
+POST,/api/login/usuario,500 Server Error: Internal Server Error for url: http://node-api-1242598529.us-east-2.elb.amazonaws.com/api/login/usuario,35671
+POST,/api/login/usuario,502 Server Error: Bad Gateway for url: http://node-api-1242598529.us-east-2.elb.amazonaws.com/api/login/usuario,8447
